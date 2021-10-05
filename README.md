@@ -1,6 +1,6 @@
 https://mdeditor.tw/
 
-README.md update 20210506
+README.md update 2021/10/06
 # 歡迎使用 Markdown線上編輯器 MdEditor
 
 
