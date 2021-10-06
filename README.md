@@ -1,8 +1,11 @@
 https://mdeditor.tw/
 
 README.md update 2021/10/06
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 5da6c141a174177f32f94a640e1a3b314cfefb06
 # 歡迎使用 Markdown線上編輯器 MdEditor
 
 
