@@ -1,6 +1,8 @@
 https://mdeditor.tw/
 
 README.md update 2021/10/06
+
+
 # 歡迎使用 Markdown線上編輯器 MdEditor
 
 
@@ -52,3 +54,24 @@ MdEditor源於Pandao的JavaScript開源專案，開源地址[Editor.md](https://
 ***粗斜體*** ___粗斜體___
 
 上標：X<sub>2</sub>，下標：O<sup>2</sup>
+
+#### 縮排風格
+
+即縮排四個空格，也做為實現類似 `<pre>` 預格式化文字 ( Preformatted Text ) 的功能。
+
+    <?php
+        echo "Hello world!";
+    ?>
+預格式化文字：
+
+    | First Header  | Second Header |
+    | ------------- | ------------- |
+    | Content Cell  | Content Cell  |
+    | Content Cell  | Content Cell  |
+
+#### JS程式碼
+```javascript
+function test() {
+    console.log("Hello world!");
+}
+```
